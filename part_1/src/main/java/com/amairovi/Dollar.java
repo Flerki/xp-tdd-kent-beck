@@ -1,7 +1,7 @@
 package com.amairovi;
 
 public class Dollar {
-    int amount;
+    private int amount;
 
     public Dollar(int amount) {
         this.amount = amount;
