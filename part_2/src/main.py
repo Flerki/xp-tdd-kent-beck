@@ -24,4 +24,4 @@ class TestCaseTest(TestCase):
         assert test.wasRun
 
 
-TestCaseTest("testRunnning").testRunning()
+TestCaseTest("testRunning").run()
